@@ -27,6 +27,7 @@ module.exports = function(webpack, opts) {
   return new webpack.BannerPlugin(Object.assign({
     banner: polyfill,
     raw: true, 
-    entryOnly: true
+    entryOnly: true,
+    test: /\.js$/
   }, opts));
 }
