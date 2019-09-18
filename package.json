@@ -1,0 +1,29 @@
+{
+  "name": "webpack-plugin-object-entries-and-values-to-object-keys",
+  "version": "0.1.0",
+  "description": "Add Object.values and Object.entries polyfill to entries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingback/webpack-plugin-object-entries-and-values-to-object-keys.git"
+  },
+  "keywords": [
+    "object",
+    "values",
+    "entries",
+    "webpack",
+    "plugin"
+  ],
+  "author": "ningzbruc@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kingback/webpack-plugin-object-entries-and-values-to-object-keys/issues"
+  },
+  "homepage": "https://github.com/kingback/webpack-plugin-object-entries-and-values-to-object-keys#readme",
+  "devDependencies": {
+    "webpack": "^4.40.2"
+  }
+}
