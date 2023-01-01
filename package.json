@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/kingback/webpack-plugin-object-entries-and-values-to-object-keys#readme",
   "devDependencies": {
-    "webpack": "^4.40.2"
+    "webpack": "^5.75.0"
   }
 }
